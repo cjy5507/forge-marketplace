@@ -1,0 +1,30 @@
+{
+    "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+    "name": "forge-marketplace",
+    "description": "Forge — harness-engineering plugin for evidence-driven development",
+    "owner": {
+        "name": "cjy5507",
+        "email": "cjy5507@users.noreply.github.com"
+    },
+    "plugins": [
+        {
+            "name": "forge",
+            "description": "Virtual Software Company — phase-gated harness engineering with adaptive tiers, evidence gates, and role-based agents",
+            "version": "0.1.0",
+            "author": {
+                "name": "Forge Contributors"
+            },
+            "source": "./plugins/forge",
+            "category": "productivity",
+            "homepage": "https://github.com/cjy5507/forge",
+            "tags": [
+                "harness-engineering",
+                "evidence-driven",
+                "phase-gate",
+                "multi-agent",
+                "virtual-company"
+            ]
+        }
+    ],
+    "version": "0.1.0"
+}
